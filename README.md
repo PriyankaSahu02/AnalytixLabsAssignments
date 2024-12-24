@@ -24,17 +24,6 @@ This project demonstrates basic data manipulation and visualization techniques u
 
 ---
 
-# Datasets
-### **Synthetic Pokémon Dataset**
-- Created using a Python dictionary with fields such as name, type, hp, evolution, and pokedex.
-- **Focus:** Demonstrate data structuring, column reordering, and feature addition.
-
-### **Wine Quality Dataset**
-- A real-world dataset (`wine.txt`) loaded into a Pandas DataFrame.
-- **Focus:** Cleaning the data by dropping unnecessary columns, renaming fields for clarity, and preparing it for analysis.
-
----
-
 # Key Operations
 ### **Synthetic Data Manipulation**
 - Creation of a synthetic Pokémon dataset.
@@ -51,11 +40,3 @@ This project demonstrates basic data manipulation and visualization techniques u
 - Placeholder for exploring patterns and trends in datasets through plots.
 
 ---
-
-# Insights
-While the notebook primarily focuses on data manipulation, it sets the groundwork for uncovering insights such as:
-- Distribution and relationships in the wine dataset.
-- Trends in synthetic Pokémon data (e.g., habitats and attributes).
-
----
-
